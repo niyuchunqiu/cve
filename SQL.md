@@ -1,8 +1,4 @@
-# Billing Management System v1.0 has SQL injection
-
 BUG_Author: lixu
-
-vendors: https://www.sourcecodester.com/php/14380/billing-management-system-php-mysql-updated.html
 
 Vulnerability File: /smartbilling_source_code/editproduct.php
 
